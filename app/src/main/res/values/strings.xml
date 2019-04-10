@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kuis</string>
+    <string name="about">About</string>
+    <string name="Contact">Contact</string>
+    <string name="program_ini_dibuat_oleh_bayu_fajariyanto">Program ini dibuat oleh Bayu Fajariyanto</string>
+    <string name="github">Github</string>
+</resources>
